@@ -1,6 +1,6 @@
 import { motion } from "framer-motion"
 import { TypeAnimation } from "react-type-animation"
-import foto from "../assets/hero.png"
+import foto from "../assets/foto.jpg"
 
 export default function Hero() {
   return (
@@ -43,7 +43,7 @@ export default function Hero() {
           >
             <TypeAnimation
               sequence={[
-                "Laravel Developer", 2000,
+                "Fullstack Developer", 2000,
                 "Android Developer", 2000,
                 "Desktop Developer", 2000,
                 "Database Engineer", 2000,

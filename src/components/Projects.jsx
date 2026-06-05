@@ -2,22 +2,16 @@ import { motion } from "framer-motion"
 
 const projects = [
   {
-    title: "Aplikasi Kasir",
-    type: "Desktop App",
-    desc: "Aplikasi kasir berbasis desktop untuk mengelola transaksi penjualan, stok barang, dan laporan keuangan.",
-    tech: ["Java", "MySQL"],
-  },
-  {
-    title: "Website Toko Online",
+    title: "Aplikasi Kasir Es Kelapa",
     type: "Web App",
-    desc: "Website e-commerce dengan fitur produk, keranjang belanja, dan manajemen pesanan menggunakan Laravel.",
+    desc: "Aplikasi kasir berbasis Website untuk mengelola transaksi penjualan, stok barang, dan laporan keuangan.",
     tech: ["Laravel", "MySQL", "Bootstrap"],
   },
   {
-    title: "Aplikasi Absensi",
-    type: "Android App",
-    desc: "Aplikasi absensi siswa berbasis Android dengan fitur scan QR code dan rekap kehadiran.",
-    tech: ["Android Studio", "Java", "SQLite"],
+    title: "Website Pencatatan SPP",
+    type: "Web App",
+    desc: "Website pencatatan SPP, dengan fitur Manajemen, dan Alert menggunakan Laravel.",
+    tech: ["Laravel", "MySQL", "Bootstrap"],
   },
 ]
 
