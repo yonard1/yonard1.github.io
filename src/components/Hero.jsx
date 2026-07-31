@@ -1,6 +1,6 @@
 import { motion } from "framer-motion"
 import { TypeAnimation } from "react-type-animation"
-import foto from "../assets/foto.jpg"
+import foto from "../assets/Leon.png"
 
 export default function Hero() {
   return (

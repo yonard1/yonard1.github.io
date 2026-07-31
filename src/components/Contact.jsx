@@ -56,7 +56,7 @@ export default function Contact() {
           </motion.a>
 
           <motion.a
-            href="https://linkedin.com/in/leonardo-alfian-bait"
+            href="https://www.linkedin.com/in/leonardoalf/"
             target="_blank"
             rel="noreferrer"
             initial={{ opacity: 0, y: 20 }}
@@ -67,7 +67,7 @@ export default function Contact() {
           >
             <div>
               <p className="text-blue-200 text-xs tracking-widest uppercase mb-2">LinkedIn</p>
-              <p className="text-white font-medium">linkedin.com/in/leonardo-alfian-bait</p>
+              <p className="text-white font-medium">linkedin.com/in/leonardoalf</p>
             </div>
             <span className="text-blue-600 group-hover:text-blue-300 transition-colors text-2xl">→</span>
           </motion.a>
